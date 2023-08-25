@@ -17,10 +17,10 @@ I have 33 years old. Living in Ukraine. Works in game industry. All time working
 ***
 ###My skills:
 - Languages:
-  - [x] HTML
-  - [x] CSS
-  - [ ] JS
-- World Languages:
-  - [x] English (basic)
-  - [x] Russian
-  - [x] Ukraine
+  - [x]  HTML
+  - [x]  CSS
+  - [ ]  JS
+- World  Languages:
+  - [x]  English (basic)
+  - [x]  Russian
+  - [x]  Ukraine
