@@ -1,6 +1,5 @@
-
-<!-- center:yellow -->![](https://i.imgur.com/gTEnhwh.jpg "My Photo")
-<!-- center:yellow -->#WHY I WANT TO BE A DEVELOPER
+![](https://i.imgur.com/gTEnhwh.jpg "My Photo")
+#WHY I WANT TO BE A DEVELOPER
 ***
 Hello my first name is **Aleksandr** and second name — **Bondar**.
 
@@ -17,10 +16,10 @@ I have 33 years old. Living in Ukraine. Works in game industry. All time working
 ***
 ###My skills:
 - Languages:
-  - [x]  HTML
-  - [x]  CSS
-  - [ ]  JS
-- World  Languages:
-  - [x]  English (basic)
-  - [x]  Russian
-  - [x]  Ukraine
+  - [x] HTML
+  - [x] CSS
+  - [ ] JS
+- World Languages:
+  - [x] English (basic)
+  - [x] Russian
+  - [x] Ukraine
