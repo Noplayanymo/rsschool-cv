@@ -1,4 +1,4 @@
-![](https://i.imgur.com/gTEnhwh.jpg "My Photo")
+![](https://i.imgur.com/gTEnhwh.jpg)
 #WHY I WANT TO BE A DEVELOPER
 ***
 Hello my first name is **Aleksandr** and second name — **Bondar**.
