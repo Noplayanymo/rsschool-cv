@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Noplayanymo.github.io/rsschool-cv
